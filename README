@@ -1,1 +1,11 @@
-Hello World
+ Projet : Password Generator
+
+ Auteur : Sumbang Christian Baurel
+
+ Date de modification : 28/02/2014
+
+ Description
+
+ Password Generator est une application qui permet de générer des mots de passe sécuriser et ceux en fonction de plusieurs paramètres.
+
+ L'application possède aussi un fonction basé sur le plugin Jquery complexy.js et qui permet de tester la sécurité du mot de passe créer.
